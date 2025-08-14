@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="SelçukSports ve Taraftarium24 ile canlı maç yayınlarını HD kalitesinde ücretsiz izleyin. Mobil uyumlu ve reklamsız futbol keyfi burada!" />
+  <meta name="keywords" content="SelçukSports, Taraftarium24, canlı maç izle, bedava maç yayını, HD maç yayını" />
+  <meta name="author" content="SelçukSports & Taraftarium24" />
+  <title>SelçukSports & Taraftarium24 | Canlı Maç Yayını İzle</title>
+  <link rel="icon" href="/favicon.ico" />
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 text-gray-800 font-sans">
+
+  <!-- Header -->
+  <header class="bg-black text-white">
+    <div class="max-w-7xl mx-auto px-4 py-6 flex justify-between items-center">
+      <h1 class="text-2xl font-bold">SelçukSports & Taraftarium24</h1>
+      <nav>
+        <ul class="flex space-x-6">
+          <li><a href="#canli-mac" class="hover:text-yellow-400 transition">Canlı Maç</a></li>
+          <li><a href="#hakkimizda" class="hover:text-yellow-400 transition">Hakkımızda</a></li>
+          <li><a href="#iletisim" class="hover:text-yellow-400 transition">İletişim</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="bg-gradient-to-r from-yellow-400 to-red-500 text-white py-20" id="canli-mac">
+    <div class="max-w-5xl mx-auto px-4 text-center">
+      <h2 class="text-4xl font-extrabold mb-4">Canlı Maç İzle – Ücretsiz HD Yayın</h2>
+      <p class="text-xl mb-6">SelçukSports ve Taraftarium24 ile maç keyfini doyasıya yaşa. Donmadan, reklamsız futbol yayını seni bekliyor!</p>
+      <a href="#yayina-basla" class="inline-block bg-white text-black font-semibold py-3 px-6 rounded-lg shadow-lg hover:bg-gray-200 transition">Yayına Başla</a>
+    </div>
+  </section>
+
+  <!-- Yayın Kartları -->
+  <section class="py-16 bg-white" id="yayina-basla">
+    <div class="max-w-6xl mx-auto px-4">
+      <h3 class="text-3xl font-bold text-center mb-10">Bugünkü Maçlar</h3>
+      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <!-- Match Card -->
+        <div class="bg-gray-50 p-6 rounded-lg shadow hover:shadow-lg transition">
+          <img src="https://tmssl.akamaized.net//images/foto/galerie/derby-turkey-1740393983-161897.png" alt="Galatasaray vs Fenerbahçe" loading="lazy" class="rounded mb-4">
+          <h4 class="text-xl font-semibold mb-2">Galatasaray vs Fenerbahçe</h4>
+          <p class="mb-4">Süper Lig derbisi. SelçukSports üzerinden canlı izleyin.</p>
+          <a href="#" class="text-blue-600 font-bold hover:underline">Maçı İzle</a>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Hakkımızda -->
+  <section class="py-16 bg-gray-100" id="hakkimizda">
+    <div class="max-w-4xl mx-auto px-4 text-center">
+      <h3 class="text-3xl font-bold mb-6">Hakkımızda</h3>
+      <p class="text-lg">SelçukSports ve Taraftarium24, futbolseverler için reklamsız, kaliteli ve ücretsiz canlı maç yayını sunan iki köklü platformdur. Her ligden karşılaşmayı yüksek çözünürlükle izleyin.</p>
+    </div>
+  </section>
+
+  <!-- İletişim -->
+  <section class="py-16 bg-white" id="iletisim">
+    <div class="max-w-3xl mx-auto px-4 text-center">
+      <h3 class="text-3xl font-bold mb-6">İletişim</h3>
+      <p>Bize ulaşmak için <a href="mailto:destek@selcuksports.com" class="text-blue-600 underline">destek@selcuksports.com</a> adresine mail atabilirsiniz.</p>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-black text-white text-center py-6 mt-10">
+    <p>&copy; 2025 SelçukSports & Taraftarium24 | Tüm Hakları Saklıdır</p>
+  </footer>
+
+</body>
+</html>
