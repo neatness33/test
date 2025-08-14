@@ -4,8 +4,9 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="SelçukSports ve Taraftarium24 ile canlı maç yayınlarını HD kalitesinde ücretsiz izleyin. Mobil uyumlu ve reklamsız futbol keyfi burada!" />
-  <meta name="keywords" content="SelçukSports, Taraftarium24, canlı maç izle, bedava maç yayını, HD maç yayını" />
+  <meta name="keywords" content="selçuksports, taraftarium24, canlı maç izle, bedava maç yayını, HD maç yayını, selcuksports" />
   <meta name="author" content="SelçukSports & Taraftarium24" />
+  <meta name="google-site-verification" content="1tSMI7DJE5J_zpoVNZlLLjecELnygbhRFEkW-dDJlbs" />
   <title>SelçukSports & Taraftarium24 | Canlı Maç Yayını İzle</title>
   <link rel="icon" href="/favicon.ico" />
   <script src="https://cdn.tailwindcss.com"></script>
